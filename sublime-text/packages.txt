@@ -1,0 +1,11 @@
+"installed_packages":
+[
+	"Dockerfile Syntax Highlighting",
+	"Git",
+	"GitGutter",
+	"JSX",
+	"Package Control",
+	"SyncedSideBar",
+	"TrailingSpaces",
+	"TypeScript Syntax"
+]
